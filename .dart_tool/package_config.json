@@ -207,13 +207,13 @@
     },
     {
       "name": "path_provider_macos",
-      "rootUri": "file:///Users/nana/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.4",
+      "rootUri": "file:///Users/nana/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/nana/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.1",
+      "rootUri": "file:///Users/nana/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -392,7 +392,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-12-08T04:36:07.212469Z",
+  "generated": "2021-12-09T15:09:43.202831Z",
   "generator": "pub",
   "generatorVersion": "2.13.1"
 }
